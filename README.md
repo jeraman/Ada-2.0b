@@ -1,9 +1,11 @@
-* ADA 2.0B Project
-[jeraman.info][http://jeraman.info], 2010
+ADA 2.0B Project
+================
+[jeraman.info](http://jeraman.info), 2010
 contact - jbcj [at] cin.ufpe.br
 
 
-* About
+About
+-----
 Ada v2.0b is a computer programmer created in 2010.
 
 It was designed for creating programs using Pure Data (a graphical programming language), in a Live Coding session, based on its own (sub/o)jectivity.
@@ -14,20 +16,22 @@ Inspired by the Emotional Kernel Panic and the Marvim Gainsbug projects, this pr
 
 For further informations, visit (sorry, in portuguese):
 
-[http://jeraman.info/​ada-2-0b/]​(http://jeraman.info/​ada-2-0b/)
+[jeraman.info/​ada-2-0b]​(http://jeraman.info/​ada-2-0b/)
 
 
-* Requirements 
+Requirements 
+------------
 - Ubuntu Jaunty 9.04;
 - Pure Data 0.41-4;
 - Python 2.6.2;
 
 
-* How to Run
+How to Run
+----------
 1. Open terminal;
 2. Type the following command and wait a few seconds:
 
-	$ sudo python main.py
+    $ sudo python main.py
 
 3. Maximize the Pure Data window called "new";
 4. Wait the counter to finish;
