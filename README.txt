@@ -1,12 +1,10 @@
-===========================
-== ADA 2.0B ===============
+* == ADA 2.0B ===============
 == by Jeraman, 2010 =======
 == jbcj@cin.ufpe.br =======
-===========================
 
 
 ====================
-====== ABOUT =======
+* ====== ABOUT =======
 ====================
 Ada v2.0b is a computer programmer created in 2010.
 
@@ -20,14 +18,14 @@ For further informations, visit (sorry, in portuguese):
 http://jeraman.info/​ada-2-0b/​
 
 ====================
-=== REQUIREMENTS ===
+* === REQUIREMENTS ===
 ====================
 - Ubuntu Jaunty 9.04;
 - Pure Data 0.41-4;
 - Python 2.6.2;
 
 ====================
-==== HOW TO RUN ====
+* ==== HOW TO RUN ====
 ====================
 1 - Open terminal;
 2 - Type the following command and wait a few seconds:
@@ -36,4 +34,3 @@ http://jeraman.info/​ada-2-0b/​
 4 - Wait the counter to finish;
 5 - Voilá! Wait the performance to finish for checking if everything went fine;
 
-===========================
