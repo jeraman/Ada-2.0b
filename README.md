@@ -1,6 +1,7 @@
 ADA 2.0B Project
 ================
 [jeraman.info](http://jeraman.info), 2010
+
 contact - jbcj [at] cin.ufpe.br
 
 
@@ -16,7 +17,7 @@ Inspired by the Emotional Kernel Panic and the Marvim Gainsbug projects, this pr
 
 For further informations, visit (sorry, in portuguese):
 
-[jeraman.info/​ada-2-0b]​(http://jeraman.info/​ada-2-0b/)
+http://jeraman.info/​ada-2-0b/
 
 
 Requirements 
