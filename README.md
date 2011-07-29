@@ -1,6 +1,5 @@
 * ADA 2.0B Project
 [jeraman.info][http://jeraman.info], 2010
-
 contact - jbcj [at] cin.ufpe.br
 
 
